@@ -1,0 +1,25 @@
+/* Copyright (c) General Electric Company, 2017.  All rights reserved. */
+
+@charset "UTF-8";
+
+.fill {
+    min-height: 100%;
+    height: 100%;
+}
+
+/* Limit the size of scrollable regions. */
+.container-fixed-height {
+    min-height: 1000px;
+    max-height: 1000px;
+}
+.fixed-height {
+    min-height: 750px;
+    max-height: 750px;
+    height: 750px;
+}
+.fixed-smaller-height {
+    min-height: 700px;
+    max-height: 700px;
+    height: 700px;
+}
+

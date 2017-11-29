@@ -1,0 +1,26 @@
+{
+  "name": "rt106-path-seed",
+  "authors": [
+    "Brion Sarachan <sarachan@ge.com>"
+  ],
+  "description": "Seed application for pathology using the Rt 106 web application framework",
+  "main": "",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.build.ge.com/rt106/rt106-path-seed",
+  "private": true,
+  "dependencies": {
+    "rt106-frontend": "https://github.build.ge.com/rt106/rt106-frontend.git#master"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "rt106-app/bower_components",
+    "Dockerfile",
+    "entrypoint.sh",
+    "docker-compose.yml",
+    "sonic.properties",
+    "packages.json",
+    "test",
+    "tests"
+  ]
+}

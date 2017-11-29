@@ -1,0 +1,6 @@
+.idea
+rt106-app/bower_components
+node_modules
+npm-debug.log
+.env
+docker-compose.dev.yml
