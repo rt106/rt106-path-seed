@@ -2,7 +2,7 @@
   "name": "rt106-seed-path",
   "version": "1.0.0",
   "description": "Seed application for pathology using the Rt 106 web application framework",
-  "homepage": "https://github.build.ge.com/rt106/rt106-path-seed",
+  "homepage": "https://github.com/rt106/rt106-path-seed",
   "main": "rt106-server/rt106-server.js",
   "dependencies": {
     "cors": "^2.8.4",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.build.ge.com/rt106/rt106-path-seed.git"
+    "url": "https://github.com/rt106/rt106-path-seed.git"
   },
   "author": "Brion Sarachan",
   "license": "BSD-3-Clause"
