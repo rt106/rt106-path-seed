@@ -1,7 +1,10 @@
 # rt106-path-seed
-Seed application for pathology.
+
+[![CircleCI](https://circleci.com/gh/rt106/rt106-path-seed.svg?style=svg)](https://circleci.com/gh/rt106/rt106-path-seed)
 
 _Copyright (c) General Electric Company, 2017.  All rights reserved._
+
+Seed application for pathology.
 
 ### To build the Docker image
 
